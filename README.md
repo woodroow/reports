@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages 2
+## Stress test reports
 
-You can use the [editor on GitHub](https://github.com/woodroow/reports/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Current structure with validation](https://woodroow.github.io/reports/current-with-validation/index.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[New structure without validation](https://woodroow.github.io/reports/without-validation/index.html)
 
-### Markdown
+[New structure with validation use mongoose "PRE save" middleware](https://woodroow.github.io/reports/with-validation-pre-save/index.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[New structure with validation use mongoose "POST save" middleware](https://woodroow.github.io/reports/with-validation-post-save/index.html)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/woodroow/reports/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
